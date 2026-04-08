@@ -52,7 +52,6 @@ Sou um entusiasta da educação e da tecnologia, atuando na intersecção entre 
 <div align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JonasBernardino&theme=tokyonight" />
 </div>
----
 
 ### 📫 Vamos Conversar?
 
