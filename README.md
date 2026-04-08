@@ -11,7 +11,7 @@
     <img align="center" alt="Jonas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jonas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jonas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Jonas-Angular" height="30" width="40" src="https://img.icons8.com/color/240/000000/angularjs.svg](https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/angular-icon.png">
+  <img align="center" alt="Angular" height="30" width="40" src="">
 </div>
     
   ##
