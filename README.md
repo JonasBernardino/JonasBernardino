@@ -50,8 +50,7 @@ Sou um entusiasta da educação e da tecnologia, atuando na intersecção entre 
 ### 📊 Github Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonasBernardino&show_icons=true&theme=merko&include_all_commits=true&count_private=true&cache_seconds=1800" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonasBernardino&layout=compact&langs_count=7&theme=merko&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JonasBernardino&theme=tokyonight" />
 </div>
 ---
 
