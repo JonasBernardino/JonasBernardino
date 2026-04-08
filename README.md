@@ -12,6 +12,7 @@
 
 Sou um entusiasta da educação e da tecnologia, atuando na intersecção entre a academia e o mercado de software.
 
+- 🏆 **Desenvolvedor Sénior**: Vasta experiência no **setor financeiro**
 - 🏫 **Professor Universitário**: Partilhando conhecimento e formando novos talentos.
 - 🎓 **Mestrando em TI (IFPB)**: Focoado em Engenharia de Software e Gestão de Projetos com IA.
 - 📜 **Especialista**: Pós-graduado em **Engenharia de Software** e **Gerenciamento de Projetos**.
@@ -33,6 +34,15 @@ Sou um entusiasta da educação e da tecnologia, atuando na intersecção entre 
 **Gestão e Engenharia:**
 <p align="left">
   <img src="https://img.shields.io/badge/Scrum-FFFFFF?style=for-the-badge&logo=scrumalliance&logoColor=black" />
+  <img src="https://img.shields.io/badge/Software_Architecture-00599C?style=for-the-badge&logo=architecture&logoColor=white" />
+</p>
+
+---
+
+**Expertise Financeira & Gestão:**
+<p align="left">
+  <img src="https://img.shields.io/badge/Fintech_Solutions-85BB65?style=for-the-badge&logo=cashapp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Banking_Systems-004a99?style=for-the-badge&logo=google-pay&logoColor=white" />
   <img src="https://img.shields.io/badge/Software_Architecture-00599C?style=for-the-badge&logo=architecture&logoColor=white" />
 </p>
 
