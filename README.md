@@ -47,14 +47,12 @@ Sou um entusiasta da educação e da tecnologia, atuando na intersecção entre 
 </p>
 
 ---
-
 ### 📊 Github Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TEU_USUARIO_AQUI&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonasbernardino&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasbernardino&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-
 ---
 
 ### 📫 Vamos Conversar?
