@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Professor+Universit%C3%A1rio;Mestrando+em+TI+(IFPB);Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+(UFPB);Engenheiro+de+Software" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Professor+Universit%C3%A1rio;Senior+Software+Engineer;Mestrando+em+TI+(IFPB);Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+(UFPB);Engenheiro+de+Software" alt="Typing SVG" />
   </a>
 </div>
 
@@ -12,7 +12,7 @@
 
 Sou um entusiasta da educação e da tecnologia, atuando na intersecção entre a academia e o mercado de software.
 
-- 🏆 **Desenvolvedor Sénior**: Vasta experiência no **setor financeiro**
+- 🏆 **Desenvolvedor Sênior**: Vasta experiência no **setor financeiro**
 - 🏫 **Professor Universitário**: Partilhando conhecimento e formando novos talentos.
 - 🎓 **Mestrando em TI (IFPB)**: Focoado em Engenharia de Software e Gestão de Projetos com IA.
 - 📜 **Especialista**: Pós-graduado em **Engenharia de Software** e **Gerenciamento de Projetos**.
