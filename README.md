@@ -1,7 +1,7 @@
 # Olá, sou o Jonas Bernardino! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Professor+Universitário;Mestrando+em+TI+(IFPB);Cientista+da+Computação+(UFPB);Engenheiro+de+Software" alt="Typing SVG" />
+  [<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Professor+Universitário;Mestrando+em+TI+(IFPB);Cientista+da+Computação+(UFPB);Engenheiro+de+Software" alt="Typing SVG" />](https://readme-typing-svg.demolab.com/?lines=Professor+Universit%C3%A1rio;Mestrando+em+TI)
 </div>
 
 ---
@@ -11,7 +11,7 @@
 Sou um entusiasta da educação e da tecnologia, atuando na intersecção entre a academia e o mercado de software.
 
 - 🏫 **Professor Universitário**: Partilhando conhecimento e formando novos talentos.
-- 🎓 **Mestrando em TI (IFPB)**: Engenharia de Software.
+- 🎓 **Mestrando em TI (IFPB)**: Focoado em Engenharia de Software e Gestão de Projetos com IA.
 - 📜 **Especialista**: Pós-graduado em **Engenharia de Software** e **Gerenciamento de Projetos**.
 - 🎓 **Formado em**: Ciência da Computação pela **UFPB**.
 
