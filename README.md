@@ -1,7 +1,7 @@
 # Olá, sou o Jonas Bernardino! 👋
 
 <div align="center">
-  [<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Professor+Universitário;Mestrando+em+TI+(IFPB);Cientista+da+Computação+(UFPB);Engenheiro+de+Software" alt="Typing SVG" />](https://readme-typing-svg.demolab.com/?lines=Professor+Universit%C3%A1rio;Mestrando+em+TI)
+<img src="https://readme-typing-svg.demolab.com?lines=Professor+Universitário;Mestrando+em+TI" />
 </div>
 
 ---
