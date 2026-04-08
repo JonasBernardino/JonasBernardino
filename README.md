@@ -11,9 +11,9 @@
 Sou um entusiasta da educação e da tecnologia, atuando na intersecção entre a academia e o mercado de software.
 
 - 🏫 **Professor Universitário**: Partilhando conhecimento e formando novos talentos.
-- 🎓 **Mestrando em TI (IFPB)**: Focado em investigação e inovação tecnológica.
+- 🎓 **Mestrando em TI (IFPB)**: Engenharia de Software.
 - 📜 **Especialista**: Pós-graduado em **Engenharia de Software** e **Gerenciamento de Projetos**.
-- 🎓 **Bacharel**: Ciência da Computação pela **UFPB**.
+- 🎓 **Formado em**: Ciência da Computação pela **UFPB**.
 
 ---
 
